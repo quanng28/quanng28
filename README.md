@@ -1,3 +1,5 @@
+## Who am I
+
 I'm a second-year computer science student at Drexel University. I came to software from economics, and I learn best with a real problem in front of me.
 
 My first substantial project was an AR furniture app. I started before I understood everything it would take to build it; working through the mistakes taught me how to keep learning while making something useful. I've kept that approach as I've moved into AI applications and developer tools.
