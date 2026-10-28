@@ -1,8 +1,8 @@
 ## Who am I
 
-I'm a second-year computer science student at Drexel University. I came to software from economics, and I learn best with a real problem in front of me.
+I'm a second-year computer science student at Drexel University. I came to software from economics: in high school I started [EconLearner](https://econ-learner.net), an economics site that grew to more than 400,000 readers. I learn best with a real problem in front of me.
 
-My first substantial project was an AR furniture app. I started before I understood everything it would take to build it; working through the mistakes taught me how to keep learning while making something useful. I've kept that approach as I've moved into AI applications and developer tools. Right now I'm building Scoot and looking for the next problem worth building a startup around.
+My first substantial software project was [HaneiRoom](https://www.haneiroom.com/), an AR furniture app. I started before I understood everything it would take to build it; working through the mistakes taught me how to keep learning while making something useful. I've kept that approach through [Hanei AI](https://tryhanei.app/), [GitWhy](https://gitwhy.dev), and [WhySpec](https://github.com/gitwhy-cli/whyspec). Right now I'm building [Scoot](https://github.com/quanng28/scoot) for stroke rehab and looking for the next problem worth building a startup around.
 
 More at [quanng.me](https://quanng.me).
 
