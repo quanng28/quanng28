@@ -1,0 +1,19 @@
+README.md
+  s_3b9ee1211c070c::t_a8c19b0ab7e238 5-7,11-20,23-33,35,37,39,41-51,55-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "74fc2d9b5d9db9372224766e07e525c517b4956f",
+  "prompts": {},
+  "sessions": {
+    "s_3b9ee1211c070c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b806287b-e720-419c-b182-fd631303e189",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Quan Nguyen <quannguyenminh27082007@gmail.com>"
+    }
+  }
+}
